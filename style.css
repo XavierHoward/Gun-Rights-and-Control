@@ -1,8 +1,9 @@
 body{
 background-color: lightblue;
+text-align: center; 
 }
 
 p{
-font-size: 18px;
+font-size: 24px;
 color: black; 
 }
